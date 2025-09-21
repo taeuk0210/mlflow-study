@@ -6,8 +6,6 @@ __pycache__/
 # Local files
 /data
 /mlruns
-/reports
-*.txt
 *.csv
 
 # C extensions
