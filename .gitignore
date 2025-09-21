@@ -3,6 +3,13 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Local files
+/data
+/mlruns
+/reports
+*.txt
+*.csv
+
 # C extensions
 *.so
 
